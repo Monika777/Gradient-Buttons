@@ -1,0 +1,16 @@
+
+Monika Tarka
+2018-02-20 13:04:48
+Wyslano projekt do zatwierdzenia
+Monika Tarka
+2018-02-20 14:01:33
+1. Czemu nie mozna nadac koloru przycisku bezposrednio w [class^="btn-"] bo to psuje efekt tylko trzeba zbudowac osobno selektor dla button???
+button {
+	background: #000033
+}
+2. Co oznacza w tym zadaniu     background-position: 100% 0;   ?
+
+Wyslano projekt do zatwierdzenia
+Kuba Jadczak
+2018-02-20 19:06:13
+Projekt zatwierdzo
